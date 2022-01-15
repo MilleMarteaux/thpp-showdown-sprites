@@ -1,0 +1,1 @@
+exports.Formats = [{section:"1.812",column:1},{name:"[Gen 3] Vanilla JP",mod:"gen3",ruleset:["Standard","One Boost Passer Clause"],banlist:["Uber","Sand Veil","Assist","Smeargle + Ingrain"]}];
